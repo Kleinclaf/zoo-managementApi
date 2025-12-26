@@ -1,0 +1,15 @@
+C:\Users\emrec\OneDrive\Masaüstü\Zoo\ZooManagementApi\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Users\emrec\OneDrive\Masaüstü\Zoo\ZooManagementApi\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\emrec\OneDrive\Masaüstü\Zoo\ZooManagementApi\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\emrec\OneDrive\Masaüstü\Zoo\ZooManagementApi\Infrastructure\bin\Debug\net9.0\Domain.dll
+C:\Users\emrec\OneDrive\Masaüstü\Zoo\ZooManagementApi\Infrastructure\bin\Debug\net9.0\Domain.pdb
+C:\Users\emrec\OneDrive\Masaüstü\Zoo\ZooManagementApi\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\emrec\OneDrive\Masaüstü\Zoo\ZooManagementApi\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrec\OneDrive\Masaüstü\Zoo\ZooManagementApi\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\emrec\OneDrive\Masaüstü\Zoo\ZooManagementApi\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Users\emrec\OneDrive\Masaüstü\Zoo\ZooManagementApi\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\emrec\OneDrive\Masaüstü\Zoo\ZooManagementApi\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\emrec\OneDrive\Masaüstü\Zoo\ZooManagementApi\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Users\emrec\OneDrive\Masaüstü\Zoo\ZooManagementApi\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Users\emrec\OneDrive\Masaüstü\Zoo\ZooManagementApi\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Users\emrec\OneDrive\Masaüstü\Zoo\ZooManagementApi\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
